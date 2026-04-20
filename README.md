@@ -20,8 +20,19 @@
  📫 How to reach me:
  
  Well to reach me you can make an issue template in any specific repo that you want to talk about like mailing lists 
+
+ Now to join the discovery open source software foundation you can contribute to the specific repositories:
+
+ 1.dpms (to join the xdpms team).
+
+ 2.fast-text (to join the dev-team).
+
+ 3.discovery linux (to join the the main linux team).
+
+ 4.and any other repositories that starts from the letter m like mclib and mcc you will join the micro project team.
+
 <!--
-**discoveryos/discoveryos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**discoveryos/discoveryos** is a ✨ _special_ ✨ repository because is `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
